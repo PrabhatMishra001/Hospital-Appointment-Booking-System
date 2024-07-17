@@ -1,2 +1,2 @@
-# Avanya
-Android based app for the safety of women
+# Hospital Appointment Booking System
+MERN APP
